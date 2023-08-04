@@ -1,0 +1,11 @@
+Tags => Tags are the keywords already defined to display a content. =>Example :-
+1 <HTML> </HTML> CREATE HTML Document. 2 <head> </head> head tag contains many
+things like meta,title,style & link etc. 3
+<body></body>
+body tag is used to define the body section of html. 4
+<h1></h1>
+to
+<h6></h6>
+It is defined as heading for an html. Elements => Element in html is consit of
+opening tag ,content & closing tags. => Syntax =>
+<tagname>............Content</tagname>

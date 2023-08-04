@@ -1,0 +1,63 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+  /* background-image: url("photo-1601362840469-51e4d8d58785.jpeg"); */
+  background-color: grey;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+.button {
+  /* margin-top: 10px; */
+  margin: 10px 0px 0px 0px;
+  width: 100px;
+  height: 40px;
+  text-align: center;
+  background-color: #ff9933;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* use of Pseudo Classes */
+.button:hover {
+  color: #ff9933;
+  background-color: white;
+}
+.button a {
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.button:hover a {
+  color: #ff9933;
+}
+
+/* End use of Pseudo Classes */
+
+p {
+  color: aliceblue;
+}
+
+/* use of Pseudo Elements */
+
+p::first-line {
+  color: black;
+}
+
+p::first-letter {
+  color: #ff9933;
+}
+
+/*End use of Pseudo Elements */
+
+/* id selector */
+#formStyle {
+  border: 2px solid black;
+  margin: 50px;
+  padding: 10px;
+  height: 400px;
+  background-image: url("photo-1601362840469-51e4d8d58785.jpeg");
+}
