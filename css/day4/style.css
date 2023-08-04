@@ -1,0 +1,72 @@
+.row1 {
+  width: 100%;
+  height: 50px;
+  background-color: blue;
+}
+
+.row1-1 {
+  width: 6%;
+  height: 100%;
+  background-color: red;
+  float: left;
+}
+.row1-2 {
+  width: 94%;
+  height: 25px;
+  background-color: green;
+  float: left;
+  margin-top: 12.5px;
+}
+
+.row2 {
+  width: 100%;
+  height: 40px;
+  background-color: #ffa500;
+}
+
+.row2-1 {
+  height: 40px;
+  width: 19%;
+  float: left;
+  /* background-color: aliceblue; */
+}
+.row2-2 {
+  height: 40px;
+  width: 1%;
+  float: left;
+  background-color: green;
+}
+
+.row2-3 {
+  height: 40px;
+  width: 19%;
+  float: left;
+}
+.row2-4 {
+  height: 40px;
+  width: 1%;
+  float: left;
+  background-color: green;
+}
+.row2-5 {
+  height: 40px;
+  width: 19%;
+  float: left;
+}
+.row2-6 {
+  height: 40px;
+  width: 1%;
+  float: left;
+  background-color: green;
+}
+.row2-7 {
+  height: 40px;
+  width: 19%;
+  float: left;
+}
+.row2-8 {
+  height: 40px;
+  width: 1%;
+  float: left;
+  background-color: green;
+}
